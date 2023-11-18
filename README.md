@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrei Zgîrvaci</h1>
-<h3 align="center">A passionate React Native & Next.js Developer</h3>
+<h3 align="center">Senior React Native Developer at <a href="https://github.com/callstack">Callstack</a></h3>
 
 ### 👋 About me
 
@@ -10,8 +10,6 @@
 - 📝 I regularly write articles at [andreizgirvaci.com/blog](https://andreizgirvaci.com/blog)
 
 - ⚛️ Stay up to date with React (Native) news: [React Native Status](https://t.me/React_Native_Status)
-
-- 📄 Know about my services at [freelance.andreizgirvaci.com](https://freelance.andreizgirvaci.com)
 
 - 📫 How to reach me: **me@andreizgirvaci.com**
 
