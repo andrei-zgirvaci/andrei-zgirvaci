@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [`expo-stable-diffusion`](https://github.com/andrei-zgirvaci/expo-stable-diffusion)
 
-- 🌱 I’m currently learning: **Kotlin, Swift and Rust**
+- 🌱 I’m currently learning: **Swift. Zig and Kotlin**
 
 - 📝 I regularly write articles at [andreizgirvaci.com/blog](https://andreizgirvaci.com/blog)
 
